@@ -1,1 +1,4 @@
 Let's also add this text file to staging
+you know the git commit -m followed by the message?
+the message is just to tell the developer/guthub user what changes has been made to the file. This github commit -m seems to upload all the
+files in the staging area to github and does not actually detect any files you put in the message
