@@ -1,0 +1,2 @@
+Testing to see if git commit -m commits everything in a directory or only individual files
+Test save
